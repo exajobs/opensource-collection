@@ -38,6 +38,7 @@ _Projects released with an open source license._
 - [F-Droid](https://opencollective.com/f-droid), [#2](https://liberapay.com/F-Droid-Data/) - An installable catalogue of FOSS applications for the Android platform.
 - [Flarum](https://opencollective.com/flarum/) - Forum platform.
 - [FreeCAD](https://freecadweb.org/wiki/Donate) - Parametric 3D modeler made primarily to design real-life objects of any size.
+- [FreeTube](https://freetubeapp.io/) - Open-Source, Ad-Free YouTube Client for multiple platforms. 
 - [Funkwhale](https://opencollective.com/funkwhale) - A free, federated and social music server.
 - [GIMP](https://liberapay.com/GIMP/) - GNU Image Manipulation Program.
 - [Godot Engine](https://www.patreon.com/godotengine) - Complete 3D engine. 
