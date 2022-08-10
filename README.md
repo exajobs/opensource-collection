@@ -58,6 +58,7 @@ _Projects released with an open source license._
 - [Matrix](https://www.patreon.com/matrixdotorg), [#2](https://liberapay.com/matrixdotorg) - An open network for secure, decentralized communication.
 - [MissKey](https://www.patreon.com/syuilo) - Federated microblogging platform.
 - [MuseScore](https://www.patreon.com/musescore) - Music notation software.
+- [MyBrain](https://github.com/mhss1/MyBrain) - Open-source, All-in-one productivity app for Tasks, Notes, Calendar, Diary and Bookmarks. 
 - [MyPaint](https://opencollective.com/mypaint) - Painting and drawing program that works nicely with pressure-sensitive tablets, and its dynamic brush engine library.
 - [NativeScript-Vue](https://www.patreon.com/rigor789) - Native mobile applications with NativeScript and Vue.
 - [Neovim](https://salt.bountysource.com/teams/neovim) - Vim-fork focused on extensibility and usability.
