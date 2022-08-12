@@ -83,6 +83,7 @@ _Projects released with an open source license._
 - [Remmina](https://remmina.org/donations/) - Remote desktop client.
 - [Secure Scuttlebutt](https://opencollective.com/secure-scuttlebutt-consortium) - A distributed and secure peer-to-peer protocol and social network.
 - [ShareX Team](https://www.patreon.com/ShareX) - Screen capture and screen sharing tool.
+- [Streamlink](https://streamlink.github.io/) -  Command-line utility which pipes video streams from various services into a video player.
 - [Synfig](https://www.patreon.com/synfig) - 2D animation software.
 - [SysV init](https://www.patreon.com/sysvinit) - System V init implementation.
 - [Termux](https://www.patreon.com/termux) - Android terminal emulator.
