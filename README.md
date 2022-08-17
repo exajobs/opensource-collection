@@ -54,6 +54,7 @@ _Projects released with an open source license._
 - [LibrePCB](https://www.patreon.com/librepcb) - Software to develop printed circuit boards. 
 - [Lollipop Cloud](https://opencollective.com/lollipop-cloud-team) - Cheap, easy, self-hosted clouds for everyone.
 - [Mastodon](https://www.patreon.com/mastodon), [#2](https://liberapay.com/Mastodon/) - Federated social network server.  
+- [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) - Get things from one computer to another, safely.
 - [Matrix](https://www.patreon.com/matrixdotorg), [#2](https://liberapay.com/matrixdotorg) - An open network for secure, decentralized communication.
 - [MissKey](https://www.patreon.com/syuilo) - Federated microblogging platform.
 - [MuseScore](https://www.patreon.com/musescore) - Music notation software.
