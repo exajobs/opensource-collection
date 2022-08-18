@@ -47,6 +47,7 @@ _Projects released with an open source license._
 - [Invidious](https://liberapay.com/omarroth/) - An alternative web front-end to YouTube.
 - [iTerm2](https://www.patreon.com/gnachman) - macOS terminal replacement.
 - [JabRef](https://liberapay.com/JabRef) - Software for bibliography management
+- [Jamulus](https://jamulus.io/) - A networked music performance software allowing musicians to rehearse, perform and play in real-time.
 - [JHipster](https://opencollective.com/generator-jhipster) - Open Source application platform for creating Spring Boot + Angular/React/Vue projects in seconds.
 - [Kismet](https://www.patreon.com/kismetwireless), [#2](https://github.com/users/kismetwireless/sponsorship/) - Kismet wireless tool.
 - [Laigter](https://www.patreon.com/azagaya) - Automatic normal/specular/occlussion/parallax map generator for 2D game sprites.
