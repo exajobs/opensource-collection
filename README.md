@@ -36,6 +36,7 @@ _Projects released with an open source license._
 - [DokuWiki](https://www.patreon.com/dokuwiki) - Wiki application.
 - [Duplicati](https://opencollective.com/duplicati) - Backup client.
 - [F-Droid](https://opencollective.com/f-droid), [#2](https://liberapay.com/F-Droid-Data/) - An installable catalogue of FOSS applications for the Android platform.
+- [Figaro](https://github.com/symphonly/figaro) - Real-time voice-changer for voice-chat, etc.
 - [Flarum](https://opencollective.com/flarum/) - Forum platform.
 - [FreeCAD](https://freecadweb.org/wiki/Donate) - Parametric 3D modeler made primarily to design real-life objects of any size.
 - [Funkwhale](https://opencollective.com/funkwhale) - A free, federated and social music server.
