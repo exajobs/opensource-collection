@@ -60,6 +60,7 @@ _Projects released with an open source license._
 - [MyPaint](https://opencollective.com/mypaint) - Painting and drawing program that works nicely with pressure-sensitive tablets, and its dynamic brush engine library.
 - [NativeScript-Vue](https://www.patreon.com/rigor789) - Native mobile applications with NativeScript and Vue.
 - [Neovim](https://salt.bountysource.com/teams/neovim) - Vim-fork focused on extensibility and usability.
+- [NETworkManager](https://borntoberoot.net/NETworkManager/) - A powerful tool for managing networks and troubleshoot network problems.
 - [OctoPrint](https://www.patreon.com/foosel) - Web interface for 3D printers.
 - [Olive](https://www.patreon.com/olivevideoeditor) - High quality video editing and compositing software.
 - [Oni](https://www.patreon.com/onivim) - Modal code editor.
