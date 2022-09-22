@@ -78,6 +78,7 @@ _Projects released with an open source license._
 - [Pixelorama](https://www.patreon.com/OramaInteractive) - A free & open-source 2D sprite editor, made with the Godot Engine.
 - [PlantUML](https://www.patreon.com/plantuml) - UML diagram creation software.
 - [postActiv](https://www.patreon.com/postActiv) - Microblogging platform.
+- [Power Automate](https://apps.microsoft.com/store/detail/power-automate/9NFTCH6J7FHV) - Allows you to automate web and desktop applications on your Windows desktop by mimicking the user interface actions like clicks, and keyboard input
 - [Project Lombok](https://www.patreon.com/lombok) - Java editor plugin.
 - [Reddit Enhancement Suite](https://www.patreon.com/honestbleeps) - Reddit browser extension.
 - [Remmina](https://remmina.org/donations/) - Remote desktop client.
